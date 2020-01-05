@@ -1,0 +1,80 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    margin: 20px 80px;
+}
+
+.todo-header {
+    text-align: center;
+    width: 100%;
+}
+
+.edit-area{
+    margin: 40px 480px;
+}
+
+.edit-area input {
+    padding: 10px;
+    /* border: 2px solid transparent; */
+}
+.todo-body{
+    width: 100%;
+    margin: 40px 0px;
+}
+
+.list{
+    /* margin: 0px 50px; */
+    /* width: 100%; */
+}
+
+/* .btn1 {
+    display: inline-block;
+    width: 100px;
+} */
+
+/* #in-progress{
+    padding-bottom: 50px;
+} */
+/* .btn2 {
+    display: inline-block;
+    width: 100px;
+} */
+.first{
+    width: 140px;
+    /* height: 250px;
+    padding: 5px; */
+    display: inline-block;
+    /* margin: 0px 10px; */
+    border: 1px solid black;
+}
+
+.second{
+    width: 160px;
+    height: 250px;
+    padding: 5px;
+    display: inline-block;
+    margin: 0px 10px;
+}
+
+.third{
+    margin: 0px 10px;
+    width: 160px;
+    height: 250px;
+    padding: 5px;
+    display: inline-block;
+}
+
+
+.todo-footer{
+    text-align: center
+}
+
+input[type="text"] {
+    position: relative;
+    display: block;
+    margin : 80px auto;
+    text-align: center;
+}
